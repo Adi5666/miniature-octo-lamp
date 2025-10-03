@@ -1,0 +1,22 @@
+[
+  {"name": "Goku", "series": "Dragon Ball", "image": "https://upload.wikimedia.org/wikipedia/en/2/2c/Son_Goku_Young.JPG", "rarity": "Legendary"},
+  {"name": "Vegeta", "series": "Dragon Ball", "image": "https://upload.wikimedia.org/wikipedia/en/9/9b/Vegeta_Dragon_Ball.jpg", "rarity": "Epic"},
+  {"name": "Monkey D. Luffy", "series": "One Piece", "image": "https://upload.wikimedia.org/wikipedia/en/0/0c/Monkey_D_Luffy.png", "rarity": "Epic"},
+  {"name": "Roronoa Zoro", "series": "One Piece", "image": "https://upload.wikimedia.org/wikipedia/en/8/8d/Roronoa_Zoro.png", "rarity": "Rare"},
+  {"name": "Naruto Uzumaki", "series": "Naruto", "image": "https://upload.wikimedia.org/wikipedia/en/9/97/Naruto_Uzumaki.png", "rarity": "Epic"},
+  {"name": "Sasuke Uchiha", "series": "Naruto", "image": "https://upload.wikimedia.org/wikipedia/en/7/72/SasukeUchiha.jpg", "rarity": "Rare"},
+  {"name": "Hinata Hyuga", "series": "Naruto", "image": "https://upload.wikimedia.org/wikipedia/en/3/3b/Hinata_Hyuga.png", "rarity": "Rare"},
+  {"name": "Ichigo Kurosaki", "series": "Bleach", "image": "https://upload.wikimedia.org/wikipedia/en/7/7b/Ichigo_kurosaki_bleach.png", "rarity": "Epic"},
+  {"name": "Rukia Kuchiki", "series": "Bleach", "image": "https://upload.wikimedia.org/wikipedia/en/6/62/RukiaKuchiki.png", "rarity": "Rare"},
+  {"name": "Light Yagami", "series": "Death Note", "image": "https://upload.wikimedia.org/wikipedia/en/6/6f/Light_Yagami.jpg", "rarity": "Epic"},
+  {"name": "L Lawliet", "series": "Death Note", "image": "https://upload.wikimedia.org/wikipedia/en/6/6f/L_Lawliet.png", "rarity": "Rare"},
+  {"name": "Mikasa Ackerman", "series": "Attack on Titan", "image": "https://upload.wikimedia.org/wikipedia/en/2/28/Mikasa_Ackerman.png", "rarity": "Rare"},
+  {"name": "Eren Yeager", "series": "Attack on Titan", "image": "https://upload.wikimedia.org/wikipedia/en/0/08/Eren_Yeager.png", "rarity": "Epic"},
+  {"name": "Tanjiro Kamado", "series": "Demon Slayer", "image": "https://upload.wikimedia.org/wikipedia/en/6/6b/Tanjiro_Kamado.png", "rarity": "Epic"},
+  {"name": "Nezuko Kamado", "series": "Demon Slayer", "image": "https://upload.wikimedia.org/wikipedia/en/5/55/Nezuko_Kamado.png", "rarity": "Rare"},
+  {"name": "Saitama", "series": "One-Punch Man", "image": "https://upload.wikimedia.org/wikipedia/en/0/09/Saitama_one_punch_man.png", "rarity": "Legendary"},
+  {"name": "Genos", "series": "One-Punch Man", "image": "https://upload.wikimedia.org/wikipedia/en/d/d9/Genos_One_Punch_Man.png", "rarity": "Rare"},
+  {"name": "Edward Elric", "series": "Fullmetal Alchemist", "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/EdwardElric.jpg", "rarity": "Epic"},
+  {"name": "Levi Ackerman", "series": "Attack on Titan", "image": "https://upload.wikimedia.org/wikipedia/en/9/9b/LeviAckerman.png", "rarity": "Epic"},
+  {"name": "Rem", "series": "Re:Zero", "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/Rem_ReZero.png", "rarity": "Rare"}
+]
