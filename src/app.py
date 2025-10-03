@@ -11,7 +11,7 @@ intents = discord.Intents.default()
 intents.message_content = True
 intents.guilds = True
 
-bot = commands.Bot(command_prefix="!", intents=intents)
+bot = commands.Bot(command_prefix="!", intents=intents, help_command=None)
 
 GUILD_ID = os.getenv("GUILD_ID")
 OFFICIAL_SERVER_ID = os.getenv("OFFICIAL_SERVER_ID")
